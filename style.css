@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+h2 {
+   text-align: center;
+}
+#clock {
+  font-size: 60px;
+  text-align: center;
+}
+.buttons {
+  text-align: center;
+}
